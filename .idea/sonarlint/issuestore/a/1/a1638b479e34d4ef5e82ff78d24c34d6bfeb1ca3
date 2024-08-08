@@ -1,0 +1,14 @@
+
+—
+java:S1192"VDefine a constant instead of duplicating this literal "assets/character.png" 12 times.(¦Ùò”şÿÿÿÿJ$cdd2f3d6-f64d-449a-8168-e96e1f48d940
+š	java:S135»"YReduce the total number of break and continue statements in this loop to use at most one.(À¸‹ııÿÿÿÿJ$eecf2823-c212-464f-9226-f36290962da2
+q
+java:S1066š"/Merge this if statement with the enclosing one.(ìªà™ùÿÿÿÿJ$e4fe59c1-0164-4566-9eec-db3325d6ae34
+q
+java:S1066"/Merge this if statement with the enclosing one.(íÕÎ¤ùÿÿÿÿJ$8fde606c-5d3c-437e-acf4-3474f3aa8bf3
+l
+java:S1066°"/Merge this if statement with the enclosing one.(ôÒÖ®J$44f85585-bef8-465f-b2fd-9e5ac077473a
+
+java:S3776µ"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ÈåÊ‘J$37116927-2107-4a16-8dae-9ee73b7112da
+t
+java:S1117£"7Rename "key" which hides the field declared at line 42.(Å‰ËĞJ$f95244e9-6641-4461-875d-ef138f4ff714

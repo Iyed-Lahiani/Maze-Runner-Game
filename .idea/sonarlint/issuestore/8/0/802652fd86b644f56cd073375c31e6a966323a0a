@@ -1,0 +1,51 @@
+
+„
+java:S2184€"GCast one of the operands of this multiplication operation to a "float".(Ì¬àãJ$1bd82e18-79a1-457c-a203-b90e83957c79
+„
+java:S2184"GCast one of the operands of this multiplication operation to a "float".(àŒİøJ$1ff84620-314b-4605-96c3-073c2d3078c5
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÊÌãÎJ$7f4fd4e5-922d-440d-87d7-44e99c774eae
+Œ
+java:S3008+"PRename this field "HEART" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñİ”ÜJ$35548b7d-4722-4a4d-8e13-903811b07a39
+‹
+java:S3008,"ORename this field "LIFE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÑöÜJ$13954964-64f3-49d0-bf68-3d20a4917592
+
+java:S3008-"NRename this field "KEY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÜå»üÿÿÿÿJ$597f2fc0-2437-4db0-9813-c162d58f1633
+•
+java:S3008."YRename this field "GREY_LIGHTNING" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Áó‰–J$b231ff37-c3da-4490-90c2-ba8c4f09b7f6
+š
+java:S30081"YRename this field "BLUE_LIGHTNING" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØûÔİøÿÿÿÿJ$b63a80ac-1021-43bf-a5ba-656c42252383
+¾
+java:S1186ã"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ü³ÍJ$33a9d354-5cc2-4065-b46c-29d2dba02245
+Ã
+java:S1186ç"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(µ·öÅûÿÿÿÿJ$7c228cd2-6956-4483-befb-bd94c12b8fd5
+Ã
+java:S1186ñ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ğ£²¾ÿÿÿÿÿJ$5e04bf6a-494a-454c-9fca-b66b126c41b6
+v	java:S125*"<This block of commented-out lines of code should be removed.(Éè %J$885ea3ef-ce08-4f0b-8218-56ea85f08205
+g
+java:S3010n"+Remove this assignment of "backgroundGame".(ÅÚ£¨J$92c74e66-6858-49ff-8005-1677165a1c92
+c
+java:S3010t""Remove this assignment of "walls".(Ó ®¾ÿÿÿÿÿJ$2dd44768-52af-489b-ae42-7d400e591faa
+^
+java:S3010u""Remove this assignment of "exits".(à²ËJ$256b1b6f-d4c8-4819-9931-f093adc6c48a
+^
+java:S3010v""Remove this assignment of "traps".(ö¶öÑJ$95ca6c50-c08b-4193-b460-3619dd20138c
+]
+java:S3010w"!Remove this assignment of "keys".(ü¿J$766021d6-fcca-43e3-8233-c4c7bfd04853
+e
+java:S3010x"$Remove this assignment of "enemies".(£É“¶ûÿÿÿÿJ$b794b7eb-898a-4d6e-8abb-e4233d54fd5b
+c
+java:S3010y""Remove this assignment of "paths".(êµçÌûÿÿÿÿJ$dd3b9b6a-e77f-484e-be63-b4e33e397936
+c
+java:S3010z""Remove this assignment of "lives".(ÿâÖûÿÿÿÿJ$fa9202af-b8d1-4418-9793-97178e96112d
+i
+java:S3010{"(Remove this assignment of "protections".(ş€¨»ıÿÿÿÿJ$a5c016bb-2f50-4e15-a680-8b9dea5ae965
+
+java:S3776ˆ"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Üç§™J$a3dcdeb1-c242-4901-b42e-9c72ee6714e4
+c
+java:S1110¯"!Remove these useless parentheses.(ÁıÍşÿÿÿÿJ$5f79d864-6555-405e-8d01-6842a22e5240
+r
+java:S2696†"6Make the enclosing method "static" or remove this set.(Íæ²SJ$1229f841-a838-4198-a63d-82c5f6b626ea
+”
+java:S3776¡"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(êÿõ€úÿÿÿÿJ$d5cb94e0-f0b6-48d7-bd8c-f867a9cf1dd9
+i
+java:S1068%"(Remove this unused "font" private field.(ÎÃ¯úÿÿÿÿJ$6baa0518-d4a1-4467-886b-e364c47de2e2

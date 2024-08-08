@@ -1,0 +1,18 @@
+
+Œ
+java:S1192"PDefine a constant instead of duplicating this literal "assets/mobs.png" 9 times.(ë—±¾J$9a2fed8a-fb00-4485-9065-1446ff68ff48
+™
+java:S1104."]Make actionLockCounter a static final constant or non-public and provide accessors if needed.(¯ºÃÕJ$5aa9a21f-6dfa-44d9-80ad-2bda753005cf
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(„²Š™ÿÿÿÿÿJ$dd8e3279-672e-4101-952a-f5367298adef
+]
+java:S1116<"Remove this empty statement.(Åñ­õþÿÿÿÿJ$57c01e74-3a74-49fa-9e9f-6fc7d12a6188
+ƒ
+java:S1126¢"AReplace this if-then-else statement by a single return statement.(½ÆåØûÿÿÿÿJ$c269fc97-0cbb-45cc-ad57-ce3a2d722c6f
+`
+java:S2119Ò"Save and re-use this "Random".(¾ Æ¦ýÿÿÿÿJ$ffabb326-32cf-4f2f-a3b7-146f3fe45873
+d
+java:S1068&"(Remove this unused "name" private field.(Ë¥¼J$bb147b6d-8962-4270-b1f2-ad6f3422fc24
+i
+java:S1068'"-Remove this unused "moveTimer" private field.(Š©é½J$2abe868d-b0eb-451d-9832-bf0bdd052678
+q
+java:S1068("0Remove this unused "moveInterval" private field.(ž¨úÿÿÿÿJ$8391f0bc-bf2f-4496-a4a3-255e06ce0f8d

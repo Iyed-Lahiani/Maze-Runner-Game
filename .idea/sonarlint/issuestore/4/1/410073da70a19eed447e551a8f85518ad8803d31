@@ -1,0 +1,14 @@
+
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÊÌãÎJ$b0fb0f8c-23c6-465a-bddf-b727a794532a
+t
+java:S3516	"9Refactor this method to not always return the same value.(ş¶§^J$844b7a90-76a0-4b23-ac41-c280bf72aa96
+{
+java:S1118":Add a private constructor to hide the implicit public one.(¬ª­úÿÿÿÿJ$559cdc5f-d79f-4aa1-a672-0ba323cbe2eb
+ˆ	java:S100	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş¶§^J$3bfce5f1-696a-48c3-9c1a-230802e9122a
+
+java:S1854"@Remove this useless assignment to local variable "selectedFile".(¸•ø«úÿÿÿÿJ$842bccb4-bd6e-4a9e-b5de-1a2f65927a81
+r
+java:S1481"1Remove this unused "selectedFile" local variable.(¸•ø«úÿÿÿÿJ$e2998dd3-b07d-4917-b7ba-23ccd61b3748
+k	java:S106"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿJ$e6ebc189-abcd-4e99-8296-a615a622ebd7
+i
+java:S1128"-Remove this unused import 'java.awt.Desktop'.(¶¼©çJ$ae28d4f2-90ae-41a7-97f5-13ffd186d394

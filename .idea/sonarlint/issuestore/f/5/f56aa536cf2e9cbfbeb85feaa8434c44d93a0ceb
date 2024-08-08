@@ -1,0 +1,14 @@
+
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÊÌãÎJ$018bf48c-218f-441a-b3a6-2d61e3fda4ea
+½
+java:S1186w"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ü³ÍJ$df966cc5-50a7-4f00-a296-929042a47309
+Â
+java:S1186|"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(µ·öÅûÿÿÿÿJ$5e84e228-d6f6-4c5b-93a8-848f290bc204
+Ã
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ğ£²¾ÿÿÿÿÿJ$c894d700-02f1-4e37-8684-073dd4db80bf
+c
+java:S3010.""Remove this assignment of "paths".(êµçÌûÿÿÿÿJ$4d8d890a-004f-4fe3-a74e-cbca604e0b3e
+…
+java:S1128"IRemove this unused import 'com.badlogic.gdx.scenes.scene2d.ui.TextField'.(ËíäJ$7b78faed-e640-4777-879d-6c86ae3b80b1
+q
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»ÚıÿÿÿÿJ$bf3a8bfa-dfa6-4801-b21f-45931ac81560

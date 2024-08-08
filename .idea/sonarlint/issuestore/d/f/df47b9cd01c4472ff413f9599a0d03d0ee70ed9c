@@ -1,0 +1,8 @@
+
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(„²Š™ÿÿÿÿÿJ$208b6e41-2b61-4e04-b395-b71aaf9bf374
+—
+java:S3008"VRename this field "LOCKED_DOOR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼ôµßøÿÿÿÿJ$fa0f1a63-75a4-4af3-afeb-08c49e91c4e8
+™
+java:S3008"XRename this field "UNLOCKED_DOOR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü­†áûÿÿÿÿJ$8cb7457e-9ae3-4145-b3ae-995879966e78
+w
+java:S1128";Remove this unused import 'de.tum.cit.ase.maze.Changeable'.(¬œÃ©J$7b22a742-5eca-459a-ae2b-d809d1b65c42

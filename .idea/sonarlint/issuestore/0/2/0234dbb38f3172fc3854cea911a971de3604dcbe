@@ -1,0 +1,14 @@
+
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÊÌãÎJ$259a9fa1-e24a-42b3-929f-196ffcd898d3
+½
+java:S1186w"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ü³ÍJ$94f4cea3-b4a0-4d98-ab5a-2303cf4b9011
+Â
+java:S1186{"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(µ·öÅûÿÿÿÿJ$ef2a04e3-516d-4459-b9fb-5408f59191b7
+Â
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ğ£²¾ÿÿÿÿÿJ$51907e9f-e60c-4fc0-935a-1e9385d15baa
+h
+java:S3010)"'Remove this assignment of "playerName".(‡åİ¿øÿÿÿÿJ$ae692cab-208f-44a8-bdd0-66a0b2417ec9
+r
+java:S2696`"6Make the enclosing method "static" or remove this set.(Ş…Æ¶J$15dec6c9-2f64-4b5f-bf75-95212970a37d
+o
+java:S1128"3Remove this unused import 'com.badlogic.gdx.Input'.(•˜ëJ$49623ddb-cf7f-4a5d-b984-be63be68a182
